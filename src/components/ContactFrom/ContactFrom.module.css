@@ -1,0 +1,16 @@
+.form {
+  margin: auto;
+  width: 300px;
+}
+.label {
+  display: block;
+  margin-bottom: 10px;
+}
+.input {
+  display: block;
+  margin-top: 10px;
+}
+.button {
+  padding: 5px 10px;
+  border-radius: 5px;
+}

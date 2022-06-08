@@ -1,0 +1,9 @@
+.list {
+  display: block;
+  list-style: none;
+  width: 300px;
+  margin: auto;
+}
+.title {
+  text-align: center;
+}
